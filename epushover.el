@@ -36,3 +36,5 @@
           epushover-user-key
           title
           msg))
+
+(provide 'epushover)
